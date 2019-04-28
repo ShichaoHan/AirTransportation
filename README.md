@@ -2,7 +2,7 @@
 
 ## Overview   
 In this repository, my work on air transportation data analysis is included. Python is the primary programming language for all the data analysis conducted.   
-Many aspects of the industry are examined, empowered by data analysis techniques. Topics include: **airport performance, airline fleet assignment, ** 
+Many aspects of the industry are examined, empowered by data analysis techniques. Topics include: **airport performance, airline fleet assignment, and other topics.** 
 
 ## Topic about Data Analysis Techniques
 (1) Exploratory Data Analysis (data cleaning, data visualization, etc.)  
